@@ -1,0 +1,1 @@
+alert("hello file A modfied");
