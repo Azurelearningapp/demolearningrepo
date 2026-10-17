@@ -1,0 +1,1 @@
+alert("file C added i new feature2");
